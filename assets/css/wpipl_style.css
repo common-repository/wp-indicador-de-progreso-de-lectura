@@ -1,0 +1,27 @@
+*, *::before, *::after{
+  box-sizing: border-box;
+}
+
+:root {
+  --bar-color: red;
+  --width: 0;
+  --wpipl-top :0;
+
+}
+
+span#wpipl-progress::before{
+  content: '';
+  display: block;
+  height: 5px;
+  position: fixed;
+  top:var(--wpipl-top);
+  left: 0;
+  background: var(--bar-color);
+  width: calc(var(--width) *  1vw);
+  z-index: 999999;
+
+}
+
+.admin-bar  span#wpipl-progress::before{
+  top :32px;
+}

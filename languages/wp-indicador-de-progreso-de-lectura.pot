@@ -1,0 +1,107 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-01 10:52+0100\n"
+"PO-Revision-Date: 2020-11-01 11:14+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: includes/class-wp-ipl-settings.php:71
+msgid "Reading Progress Indicator"
+msgstr "Indicador Progreso de Lectura"
+
+#: includes/class-wp-ipl-settings.php:98
+msgid "Setting"
+msgstr "Configuración"
+
+#: includes/class-wp-ipl-settings.php:111
+msgid ""
+"Welcome to the WordPress plugin that will allow you to display a reading "
+"tracking bar of the current post."
+msgstr ""
+"Bienvenido al plugin WordPress que te permitirá mostrar una barra de "
+"seguimiento de lectura de la entrada en curso."
+
+#: includes/class-wp-ipl-settings.php:115
+msgid "Color of Progress Bar"
+msgstr "Color de la barra de progreso"
+
+#: includes/class-wp-ipl-settings.php:116
+msgid "Select the color for the progress bar."
+msgstr "Selecciona el color para la barra de progreso"
+
+#: includes/class-wp-ipl-settings.php:202
+msgid "WP Reading Progress Indicator"
+msgstr "WP Indicador Progreso de Lectura"
+
+#: includes/class-wp-ipl-settings.php:268
+#: includes/class-wp-ipl-settings.php:299
+#: includes/lib/class-wp-ipl-admin-api.php:163
+msgid "Save Changes"
+msgstr "Grabar cambios"
+
+#: includes/class-wp-ipl-settings.php:359
+#: includes/class-wp-ipl-settings.php:368 includes/class-wp-ipl.php:190
+#: includes/class-wp-ipl.php:199
+msgid "Cheatin&#8217; huh?"
+msgstr "Cheatin&#8217; huh?"
+
+#: includes/class-wp-ipl.php:161
+msgid "Donate"
+msgstr "Donar"
+
+#: includes/lib/class-wp-ipl-admin-api.php:191
+msgid "Support"
+msgstr "Soporte"
+
+#: includes/lib/class-wp-ipl-admin-api.php:192
+msgid ""
+"Do you have any questions or suggestions? Here are some links that can help "
+"you."
+msgstr ""
+"¿Tienes dudas o sugerencias? Aquí tienes unos enlaces que te pueden ayudar."
+
+#: includes/lib/class-wp-ipl-admin-api.php:194
+msgid "Suggest improvements"
+msgstr "Sugerir mejoras"
+
+#: includes/lib/class-wp-ipl-admin-api.php:195
+msgid "Report a Bug"
+msgstr "Informar de un fallo"
+
+#: includes/lib/class-wp-ipl-admin-api.php:200
+msgid "Rate the plugin"
+msgstr "Valora el plugin"
+
+#: includes/lib/class-wp-ipl-admin-api.php:203
+#, php-format
+msgid ""
+"Do you like the plugin? Are you using it on your website? Well, you can rate "
+"the plugin in <a href=\"%s\" target=\"_blank\">WordPress.org</a>, that I "
+"would be very grateful to you :-)"
+msgstr ""
+"¿Te gusta el plugin? ¿lo estas usando en tu página?, pues puedes valorar el "
+"plugin en <a href=\"%s\" target=\"_blank\">WordPress.org</a>, que te estaría "
+"muy agradecido :-)"
+
+#: includes/lib/class-wp-ipl-admin-api.php:210
+#: includes/lib/class-wp-ipl-admin-api.php:213
+msgid "Invite me to a coffee"
+msgstr "Invítame a un café"
+
+#: includes/lib/class-wp-ipl-admin-api.php:211
+msgid "Well that, push the button to give me a good dose of caffeine."
+msgstr "Pues eso, dale al botón para una dosis de cafeína."
